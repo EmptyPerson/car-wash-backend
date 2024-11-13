@@ -1,0 +1,5 @@
+# Преобразование окончаний строк
+* text=auto
+
+# Отключение обработки для node_modules
+node_modules/** binary
